@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459846780651",
+    "project_id": "tara-sakay",
+    "storage_bucket": "tara-sakay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459846780651:android:4053a76fb61502a8b660ae",
+        "android_client_info": {
+          "package_name": "com.example.tarasakay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459846780651-bcim36k3au2rj7b1buv0qepso6j2drph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxN_mQfO-1f6jQBqLj03vQXayaEWr0oC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459846780651-bcim36k3au2rj7b1buv0qepso6j2drph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
